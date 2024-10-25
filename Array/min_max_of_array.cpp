@@ -4,7 +4,6 @@
 using namespace std;
 int main()
 {
-    
     int array[]={2,5,8,1,23,-2};
     int max=array[0];
     int min=array[0];
